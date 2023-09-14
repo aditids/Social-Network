@@ -1,5 +1,7 @@
 # Social Network - Page Turner
-PageTurner is a social networking application that allows readers to connect with their fellow readers. The application is a one stop shop for people interested in reading books. Here the users can make connections based on similar interests in book genres, authors, etc. Here the users can not just explore new stuff related to books but they can also share content related to books. They can read reviews of certain books written by other readers and decide which book they can read next. 
+PageTurner is a social networking application that allows readers to connect with their fellow readers. The application is a one stop shop for people interested in reading books. Here the users can make connections based on similar interests in book genres, authors, etc. Here the users can not just explore new stuff related to books but they can also share content related to books. They can read reviews of certain books written by other readers and decide which book they can read next.
+
+<img width="740" alt="sn" src="https://github.com/aditids/Social-Network/assets/64319552/107c0ae6-e185-44f2-803f-32a64f926293">
 
 ## Tech Stack
 ### Frontend
